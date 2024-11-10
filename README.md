@@ -16,6 +16,6 @@ instale as seguintes bibliotecas:
 
 INSTRUÇÕES:
 Baixe o pycharm community, instale e crie um novo projeto com o nome que preferir.
-Baixe o arquivo main.py e coleque dentro da psta do projeto criado.
+Baixe o arquivo main.py e coloque dentro da pasta do projeto criado.
 Instale as bibliotecas dependentes.
 Execute o código.
